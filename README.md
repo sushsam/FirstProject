@@ -1,1 +1,1 @@
-# FirstProject
+# TITANIC Data Visualization
